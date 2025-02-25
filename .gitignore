@@ -1,0 +1,8 @@
+TOMMDAL/obj/
+TOMMDAL/bin/
+TommBLL/obj/
+TommAPI/obj/
+TommAPI/bin/
+TommBLL/bin/
+TommAPI/Properties/
+packages/
