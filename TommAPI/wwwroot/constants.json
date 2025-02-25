@@ -1,0 +1,41 @@
+{
+    "SOCIAL": {
+        "PLAY_STORE": {
+            "WEB": "https://play.google.com/store/apps/details?id=com.organisedmum",
+            "URI": "market://details?id=com.organisedmum"
+        },
+        "APP_STORE": {
+            "WEB": "https://apps.apple.com/us/app/the-teamtomm-app/id1427750529",
+            "URI": "market://details?id=com.organisedmum"
+        },
+      "YOUTUBE": {
+        "WEB": "https://www.youtube.com/gembray",
+        "URI": "vnd.youtube://www.youtube.com/gembray",
+        "ANDROID": "com.google.android.youtube"
+      },
+        "FACEBOOK": {
+            "WEB": "https://www.facebook.com/groups/theorganisedmumgroup",
+            "URI": "fb://group?id=197433280740376",
+            "ANDROID": "fb://facewebmodal/f?href=https://www.facebook.com/groups/theorganisedmumgroup"
+        },
+        "INSTAGRAM": {
+            "WEB": "https://www.instagram.com/the_organised_mum",
+            "URI": "instagram://user?username=the_organised_mum",
+            "ANDROID": "com.instagram.android"
+        },
+        "AMZ_EBOOK": {
+            "WEB": "https://www.amazon.co.uk/Organised-Mum-Method-housework-transform/dp/0349422206",
+            "URI": "",
+            "ANDROID": ""
+        },
+        "BLOG": {
+            "WEB": "https://www.theorganisedmum.blog"
+        },
+        "FOOD_BLOG": {
+            "WEB": "https://www.theorganisedmum.blog/category/family-friendly-recipes/"
+        },
+        "HELP": {
+            "WEB": "https://www.theorganisedmum.blog/app-support"
+        }
+    }
+}
